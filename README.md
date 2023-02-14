@@ -1,0 +1,6 @@
+- Domain: Diretório para definição de models e interfaces
+- Helpers: Diretório para definição de funções utilitárias da aplicação
+- Infra: Diretório que contem todas as configuraçoes de serviços externos
+- Pages: Diretório que contem todas as páginas
+- Services: Casos de uso de serviços externos a aplicaçao
+- Shared: Arquivos e pastas que serao utilizadas em toda aplicaçao, como: componentes, contextos, hooks, assets
